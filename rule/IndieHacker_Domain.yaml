@@ -1,5 +1,4 @@
 payload:
-  # SimilarWeb 相关域名
-  - DOMAIN-SUFFIX,similarweb.com
-  - DOMAIN-SUFFIX,similarweb.net
-  - DOMAIN-SUFFIX,similarweb.io
+  - '+.similarweb.com'
+  - '+.similarweb.net'
+  - '+.similarweb.io'
